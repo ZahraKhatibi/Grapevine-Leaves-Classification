@@ -27,6 +27,7 @@ The dataset used in this project contains images of grapevine leaves from differ
 
 - The images are resized to a consistent size (e.g., 227x227 pixels) to ensure uniformity.
 - Data augmentation techniques such as rotation, brightness adjustment, and horizontal flipping are applied to increase the dataset's diversity.
+   <img src="pic2.png" alt="Image Description" width="600"/>
 - The dataset is split into training, validation, and test sets.
 
 ## Model Training <a name="model-training"></a>
