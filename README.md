@@ -45,7 +45,3 @@ Each model is trained on the training dataset, and its performance is evaluated 
 
 The selected model's performance is assessed on the test dataset. Evaluation metrics include accuracy, precision, recall, and F1-score. A confusion matrix is also generated to visualize the classification results.
 
-## Results <a name="results"></a>
-
-The project results, including model performance metrics and visualizations, can be found in the project's output files and reports.
-
